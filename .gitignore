@@ -2,3 +2,4 @@ data/*
 .vscode/launch.json
 runs/
 results.*
+network.pt
